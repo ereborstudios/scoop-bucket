@@ -5,7 +5,7 @@
   "bin": [
     [
       "smaug-windows.exe",
-      "smaug.exe"
+      "smaug"
     ]
   ],
   "homepage": "https://smaug.dev",
