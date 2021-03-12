@@ -1,7 +1,7 @@
 {
   "version": "0.1.0",
   "url": "https://github.com/ereborstudios/smaug/releases/download/v0.2.0/smaug-windows.exe",
-  "hash": "3fa8309faa01a5d9a63339e6f667b370d1eafb10b45147f6f37d130a09c6b507",
+  "hash": "fe5a7ebee22b36129f7722b6f8f14fefc7626e26541cc3e8bd15dc107a49b7f4",
   "bin": [
     [
       "smaug-windows.exe",
