@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
-  "url": "https://github.com/ereborstudios/smaug/releases/download/v0.5.0/smaug-windows.exe",
-  "hash": "65f0d655d61c46ea4fea85711b7a3195ac6194b2781910b36908c61665b8919e",
+  "version": "0.5.1",
+  "url": "https://github.com/ereborstudios/smaug/releases/download/v0.5.1/smaug-windows.exe",
+  "hash": "3805346fe348ccdf010265220939a5f3a1cba48d1522f6179a7e9e3ffab95e06",
   "bin": [["smaug-windows.exe", "smaug"]],
   "homepage": "https://smaug.dev",
   "license": "AGPL-3.0-or-later"
